@@ -24,4 +24,4 @@ browser_profile/
 !.env.example
 
 # Solution workspace folder
-solution-workspace/
+solution_workspace/
